@@ -1,6 +1,4 @@
-# Vanta-portfolio
-
-## VANTA Systems – Mini Portfolio
+# VANTA Systems – Mini Portfolio
 I ship small, fast wins: web bug fixes (HTML/CSS/JS), MT5/MQL5 add-ons, and desktop automations.
 
 ## Projects
